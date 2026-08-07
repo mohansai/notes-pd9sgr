@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohansai.github.io/notes-pd9sgr/sitemap.xml
